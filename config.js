@@ -7,9 +7,7 @@
 
 module.exports = {
     "Cookie": "",
-    "CookieArray": ["sessionKey=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",
-    "sessionKey=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",
-    ],
+    "CookieArray": [],
     "Cookiecounter": 3,
     "CookieIndex": 0,
     "ProxyPassword": "",
